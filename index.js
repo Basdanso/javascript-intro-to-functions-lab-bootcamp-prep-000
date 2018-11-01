@@ -1,5 +1,5 @@
 function
-shout (String) {
+shout(String) {
   return 
 string.toUpperCase
 ()
